@@ -116,7 +116,7 @@ ask for the following:
 
 * *Password* -- enter the same password in both boxes
 
-.. image:: /images/register_account.jpg
+.. image:: images/register_account.jpg
 
 If there are problems with any of the fields, CKAN will tell you the problem
 and enable you to correct it. When the fields are filled in correctly, CKAN
